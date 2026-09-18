@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-18T16:16:24+00:00",
+  "generatedAt": "2026-09-18T16:22:55+00:00",
   "baseUrl": "https://cdn.jsdelivr.net/gh/vishalbg02/gateways2026-assets@main/",
   "assets": [
     {
@@ -35,9 +35,9 @@
     },
     {
       "key": "event/alternate-thesis",
-      "path": "images/events/alternate-thesis.47dad95c.webp",
-      "bytes": 61804,
-      "sha256": "47dad95c8ef2fdc72d6c414e8b1e1748b9bf125a6fbe7310d68a365d04207a68"
+      "path": "images/events/alternate-thesis.73c56b35.webp",
+      "bytes": 64618,
+      "sha256": "73c56b356b9b7993ce291e09f6aee1161b5e85b590f5c4b36aafe792573285e2"
     },
     {
       "key": "event/arcadia-x",
@@ -53,21 +53,21 @@
     },
     {
       "key": "event/in-perspective",
-      "path": "images/events/in-perspective.5427301d.webp",
-      "bytes": 58148,
-      "sha256": "5427301d172f798d6a4b2e01e1d2e93b76f9bffc73d9801de86db315272d7422"
+      "path": "images/events/in-perspective.dbb5ddbd.webp",
+      "bytes": 60690,
+      "sha256": "dbb5ddbd99356d87ac56acb4a9c38d4701eb19a9a6a23556ec7be09311e53d97"
     },
     {
       "key": "event/mystery-block",
-      "path": "images/events/in-perspective.5427301d.webp",
-      "bytes": 58148,
-      "sha256": "5427301d172f798d6a4b2e01e1d2e93b76f9bffc73d9801de86db315272d7422"
+      "path": "images/events/in-perspective.dbb5ddbd.webp",
+      "bytes": 60690,
+      "sha256": "dbb5ddbd99356d87ac56acb4a9c38d4701eb19a9a6a23556ec7be09311e53d97"
     },
     {
       "key": "event/pixel-paradox",
-      "path": "images/events/in-perspective.5427301d.webp",
-      "bytes": 58148,
-      "sha256": "5427301d172f798d6a4b2e01e1d2e93b76f9bffc73d9801de86db315272d7422"
+      "path": "images/events/in-perspective.dbb5ddbd.webp",
+      "bytes": 60690,
+      "sha256": "dbb5ddbd99356d87ac56acb4a9c38d4701eb19a9a6a23556ec7be09311e53d97"
     },
     {
       "key": "event/pixel-quest",
@@ -77,15 +77,15 @@
     },
     {
       "key": "event/promptx",
-      "path": "images/events/alternate-thesis.47dad95c.webp",
-      "bytes": 61804,
-      "sha256": "47dad95c8ef2fdc72d6c414e8b1e1748b9bf125a6fbe7310d68a365d04207a68"
+      "path": "images/events/alternate-thesis.73c56b35.webp",
+      "bytes": 64618,
+      "sha256": "73c56b356b9b7993ce291e09f6aee1161b5e85b590f5c4b36aafe792573285e2"
     },
     {
       "key": "event/render-rush",
-      "path": "images/events/render-rush.45f1214d.webp",
-      "bytes": 69166,
-      "sha256": "45f1214d5c27d6bce24b50ea30eaee9a82d0084bc479d24018aca5bc0a376db4"
+      "path": "images/events/render-rush.7219ad5c.webp",
+      "bytes": 72766,
+      "sha256": "7219ad5c847b34b05c4c4a34be3246228a4169759fe148c650559286f98b7713"
     },
     {
       "key": "event/the-last-commit",
@@ -95,9 +95,9 @@
     },
     {
       "key": "event/the-twin-directive",
-      "path": "images/events/alternate-thesis.47dad95c.webp",
-      "bytes": 61804,
-      "sha256": "47dad95c8ef2fdc72d6c414e8b1e1748b9bf125a6fbe7310d68a365d04207a68"
+      "path": "images/events/alternate-thesis.73c56b35.webp",
+      "bytes": 64618,
+      "sha256": "73c56b356b9b7993ce291e09f6aee1161b5e85b590f5c4b36aafe792573285e2"
     },
     {
       "key": "event/twin-protocol",
